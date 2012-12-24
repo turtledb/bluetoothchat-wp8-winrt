@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NOXO</Machine>
+    <WindowsUser>erkki</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\bin\Debug\BluetoothChat.exe">
+      <PackagePath>BluetoothChat.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\bin\Debug\BluetoothChat.pdb">
+      <PackagePath>BluetoothChat.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\bin\Debug\ConnectTo.xaml">
+      <PackagePath>ConnectTo.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\erkki\documents\visual studio 2012\ProjectsDesktop\BluetoothChat\BluetoothChat\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
